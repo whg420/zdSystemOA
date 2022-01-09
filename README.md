@@ -1,11 +1,19 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-11-16 13:39:17
+ * @LastEditTime: 2022-01-09 21:36:31
+ * @LastEditors: your name
+ * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @FilePath: /zdSystemOA/README.md
+-->
+
 # zd-system-admin
 
 English | [简体中文](./README-zh.md)
 
-> A minimal 卓达物业内部管理系统zd-system-admin with Element UI & axios & iconfont & permission control & lint
+> A minimal 卓达物业内部管理系统 zd-system-admin with Element UI & axios & iconfont & permission control & lint
 
 **Live demo:** http://panjiachen.github.io/zd-system-admin
-
 
 **The current version is `v4.0+` build on `vue-cli`. If you want to use the old version , you can switch branch to [tag/3.11.0](https://github.com/PanJiaChen/zd-system-admin/tree/tag/3.11.0), it does not rely on `vue-cli`**
 
@@ -80,11 +88,5 @@ For `typescript` version, you can use [vue-typescript-admin-template](https://gi
 Modern browsers and Internet Explorer 10+.
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari |
-| --------- | --------- | --------- | --------- |
-| IE10, IE11, Edge| last 2 versions| last 2 versions| last 2 versions
-
-## License
-
-[MIT](https://github.com/PanJiaChen/zd-system-admin/blob/master/LICENSE) license.
-
-Copyright (c) 2017-present PanJiaChen
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IE10, IE11, Edge                                                                                                                                                                                                | last 2 versions                                                                                                                                                                                                   | last 2 versions                                                                                                                                                                                               | last 2 versions                                                                                                                                                                                               |

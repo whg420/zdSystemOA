@@ -1,19 +1,19 @@
 <!--
  * @Author: your name
  * @Date: 2021-11-16 13:39:17
- * @LastEditTime: 2022-01-09 21:36:31
- * @LastEditors: your name
+ * @LastEditTime: 2022-01-09 21:40:52
+ * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /zdSystemOA/README.md
 -->
 
-# zd-system-admin
+# 卓达物业内部管理系统
 
 English | [简体中文](./README-zh.md)
 
-> A minimal 卓达物业内部管理系统 zd-system-admin with Element UI & axios & iconfont & permission control & lint
+> 卓达物业内部管理系统
 
-**Live demo:** http://panjiachen.github.io/zd-system-admin
+**Live demo:** https://github.com/whg420/zdSystemOA
 
 **The current version is `v4.0+` build on `vue-cli`. If you want to use the old version , you can switch branch to [tag/3.11.0](https://github.com/PanJiaChen/zd-system-admin/tree/tag/3.11.0), it does not rely on `vue-cli`**
 
@@ -60,29 +60,6 @@ npm run lint
 # code format check and auto fix
 npm run lint -- --fix
 ```
-
-Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/guide/essentials/deploy.html) for more information
-
-## Demo
-
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
-
-## Extra
-
-If you want router permission && generate menu by user roles , you can use this branch [permission-control](https://github.com/PanJiaChen/zd-system-admin/tree/permission-control)
-
-For `typescript` version, you can use [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) (Credits: [@Armour](https://github.com/Armour))
-
-## Related Project
-
-- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
-
-- [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
-
-- [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)
-
-- [awesome-project](https://github.com/PanJiaChen/vue-element-admin/issues/2312)
-
 ## Browsers support
 
 Modern browsers and Internet Explorer 10+.
